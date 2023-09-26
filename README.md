@@ -6,7 +6,12 @@ a clientes instalados en las mesas y de manera online. Este sistema ofrece una s
 buscan optimizar sus operaciones y brindar un mejor servicio a sus clientes.
 
 Tecnologías utilizadas:
-- ASP.NET
+- HTML
+- CSS
+- Ajax
+- Jquery
+- JavaScript
+- ASP.NET Framework
 - .NET Framework
 - Entity Framework
 - Razor
